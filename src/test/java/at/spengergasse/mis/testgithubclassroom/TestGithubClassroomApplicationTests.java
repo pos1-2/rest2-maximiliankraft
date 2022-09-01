@@ -8,6 +8,7 @@ class TestGithubClassroomApplicationTests {
 
 	@Test
 	void contextLoads() {
+		// todo make homework
 	}
 
 }
